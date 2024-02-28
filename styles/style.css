@@ -13,10 +13,10 @@
 }
 .cabecalho{
     display: flex;
-    align-items: center;
-    padding: 1% 0 0 30% ;
+    justify-content: center;
+    padding: 1%;
     background-color: cornflowerblue;
-    text-align: center;
+   
 }
 .cabecalho h1{
     color: var(--corprincipal);
