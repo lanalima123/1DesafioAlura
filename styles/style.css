@@ -10,11 +10,14 @@
     --corsecundaria: #d9b573 ;
     --corterciaria: #86774f ;
 
+
 }
+body {box-sizing: border-box;}
+
 header{
     display: flex;
-    justify-content: space-between;
-    padding: 1%;
+    justify-content: space-evenly;
+    padding: 10px;
     background-color: cornflowerblue;
    
 }
